@@ -122,7 +122,7 @@ You'll see the following message the first time you load the package.
 
 ## The Palmer Penguins Dataset  
 
-The Palmer Penguins dataset is a popular dataset for learning data visualization. It is bundled with the **palmerpenguins** package. The dataset was created by Allison Horst, Alison Hill, and Kristen Gorman. The dataset is available on [GitHub](https://github.com/allisonhorst/palmerpenguins).   
+The Palmer Penguins dataset [@palmerpenguins] is a popular dataset for learning data visualization. It is bundled with the **palmerpenguins** package. The dataset was created by Allison Horst, Alison Hill, and Kristen Gorman. The dataset is available on [GitHub](https://github.com/allisonhorst/palmerpenguins).   
 
 ```{r}
 #| code-fold: show
