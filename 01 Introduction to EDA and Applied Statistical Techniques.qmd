@@ -141,7 +141,7 @@ library(palmerpenguins)
 :::  
 
 ::: {.column width=70%}  
-![](screenshots/palmerpenguins.png)    
+![](images/palmerpenguins.png)    
 :::  
 
 ::::  

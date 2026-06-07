@@ -66,3 +66,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.positai
+
+CLAUDE.md
