@@ -10,7 +10,7 @@ datasets/CopyOf_College_Scorecard_Raw_Data_06102024/
 datasets/College_Scorecard_Raw_Data_06102024/
 
 # HTML files
-*.html
+# *.html
 
 # Temporary files
 *~
@@ -58,8 +58,10 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
+# miscellaneous items
+college_scorecard_docs/
+docs/images/
+# docs/
 
 # translation temp files
 po/*~
@@ -69,3 +71,5 @@ rsconnect/
 .positai
 
 CLAUDE.md
+
+/.quarto/
