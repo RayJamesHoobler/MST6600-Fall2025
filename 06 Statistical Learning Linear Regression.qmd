@@ -7,7 +7,7 @@ execute:
   echo: true
   cache: false # requires a specific page
 title-slide-attributes:
-  data-background-color: "#1178c9"
+  data-background-color: "#117ac9"
 format: 
   revealjs:
     df-print: paged
