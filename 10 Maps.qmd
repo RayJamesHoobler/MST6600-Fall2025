@@ -26,6 +26,7 @@ format:
     show-slide-number: all
     slide-number: c/t
     footer: "Applied Statistical Techniques"
+    logo: images/icon-80.png
     theme: [simple, mysimple.scss]
 ---
 
